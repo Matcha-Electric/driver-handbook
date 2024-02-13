@@ -1,6 +1,6 @@
 # How To Start Charging
 
-There are currently two ways to start charging at a _Matcha_ charger: using your RFID card (if you're a member); or scanning the QR code on the charge station. _Note: Both require that you've created a Matcha user account and added a payment method._
+There are currently two ways to start charging at a _Matcha_ charger: using your RFID card (if you're a member); or scanning the QR code on the charge station. _Note: Both require that you've [created a Matcha user account](https://github.com/Matcha-Electric/manual/blob/main/create-a-user-account.md) and added a payment method._
 
 ## 1. Tap Your Matcha RFID Card
 
