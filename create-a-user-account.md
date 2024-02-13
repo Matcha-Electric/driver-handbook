@@ -17,3 +17,5 @@ _Note: We use [Stripe](https://stripe.com/) for secure payment processing and ne
 ## 3. Your Finished! 
 
 At the end of the sign-up process, you'll land inside the Matcha app. It'll be pretty empty in there since you haven't charged yet, but now you're ready to [Start a Charge](https://github.com/Matcha-Electric/manual/blob/main/start-a-charge.md)!
+
+This [video tutorial](https://www.loom.com/share/305975c1f22849ef810757b5337f2988?sid=5a6aebca-c771-475a-9aa0-cd83eebe81f6) may also be helpful.
