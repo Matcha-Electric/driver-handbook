@@ -1,8 +1,8 @@
-## Welcome to Matcha's Knowledge Base
+## Welcome to Matcha's Driver Handbook
 
 Welcome, Bienvenido, Benvenuto, Bem-vindo, Bienvenue, 欢迎, Chào mừng, خوش آمدید!
 
-In this handbook, you'll find everything you need to know to sign-up for Matcha, start charging, and manage your experience. If you can't find the answer you're looking for, [contact us](https://www.matchaelectric.com/contact) anytime and we'll help you out as soon as possible.
+In this guide, you'll find everything you need to know to sign-up for Matcha, start charging, and manage your experience. If you can't find the answer you're looking for, [contact us](https://www.matchaelectric.com/contact) anytime and we'll help you out as soon as possible.
 
 ## Topics
 
