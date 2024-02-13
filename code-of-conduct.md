@@ -1,4 +1,4 @@
-# Matcha's Code of Conduct  :tea:
+## Matcha's Code of Conduct  :tea:
 
 Welcome to the  world of EV charging, where we all come together to power up our clean, fast, and quiet rides. Here's a little guide to help us share the space and keep the positive vibrations.
 
