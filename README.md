@@ -6,7 +6,7 @@ In this handbook, you'll find everything you need to know to sign-up for Matcha,
 
 # Topics
 
-* [Create a User Account (New Users Start Here)](https://github.com/Matcha-Electric/manual/blob/main/create-a-user-account.md)
+* [Create a User Account](https://github.com/Matcha-Electric/manual/blob/main/create-a-user-account.md) (New Users Start Here)
 * [Start a Charge](https://github.com/Matcha-Electric/manual/blob/main/start-a-charge.md)
 * [Monitor Your Active Charge Session](https://github.com/Matcha-Electric/manual/blob/main/monitor-your-charge-session.md)
 
