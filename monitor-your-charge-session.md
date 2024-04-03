@@ -10,8 +10,6 @@ If you're already logged into the Matcha app, simply click on the _Home_ button 
 
 If you're not logged into the Matcha app, simply [login to your account](https://app.matchaelectric.com/signin) and the default landing home page display will be your active charge session. The data for a live session will update approximately every 5 minutes.
 
-This [video tutorial](https://www.loom.com/share/305975c1f22849ef810757b5337f2988?sid=5a6aebca-c771-475a-9aa0-cd83eebe81f6) may also be helpful.
-
 
 ### *Notifications (_Coming Soon_)
 
