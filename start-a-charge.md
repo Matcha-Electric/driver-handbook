@@ -6,6 +6,8 @@ There are currently 2 ways to start charging at a _Matcha_ charger: using your R
 
 If you've signed up for a Matcha Membership Plan, you may have received a Matcha RFID card. Using your RFID card is the fastest and easiest way to start a charge. Simply **tap your card at the station**, wait for the indicator light on the charger to flash green, plug-in, and your charge will start automatically.
 
+OR
+
 ## 2. Scan the QR Code on the Charger
 
 When you arrive at a charge station, use your smartphone to **scan the QR code on that station**. This will open a web page for that charger. Double check the Charge Station ID, click the _Start Charging_ button, wait for the indicator light on the charger to flash green, plug-in, and your charge will start automatically. _Note: If you're not already logged into your user account the web app will ask you to login first._ 
