@@ -9,6 +9,7 @@ In this guide, you'll find everything you need to know to sign-up for Matcha, st
 * [Create a User Account](https://github.com/Matcha-Electric/manual/blob/main/create-a-user-account.md)
 * [Start a Charge](https://github.com/Matcha-Electric/manual/blob/main/start-a-charge.md)
 * [Monitor Your Active Charge Session](https://github.com/Matcha-Electric/manual/blob/main/monitor-your-charge-session.md)
+* [Driver Billing](https://github.com/Matcha-Electric/driver-handbook/blob/main/driver-billing.md)
 * [Code of Conduct](https://github.com/Matcha-Electric/manual/blob/main/code-of-conduct.md)
 
   
