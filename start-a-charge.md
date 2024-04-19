@@ -14,8 +14,6 @@ When you arrive at a charge station, use your smartphone to **scan the QR code o
 
 After you've started your charge session, you can use the Matcha app to [monitor your active charge session](https://github.com/Matcha-Electric/manual/blob/main/monitor-your-charge-session.md) from your smartphone. 
 
-This [video tutorial](https://www.loom.com/share/305975c1f22849ef810757b5337f2988?sid=5a6aebca-c771-475a-9aa0-cd83eebe81f6) may also be helpful.
-
 
 ### *Find a Charger in the App (_Coming Soon_)
 
